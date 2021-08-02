@@ -15,6 +15,25 @@
 
 미해양대기청(NOAA, National Oceanic and Atmospheric Administration)에서 진행하는 POES(Polar Operational Environmental Satellite)프로젝트의 일부로 NOAA 위성을 운용하고 있다. 하는 , 직하점을 중심으로 55.4°안쪽의 범위를 주사할 수 있다. 탑재되어 있는 주 관측 센서는 AVHRR(Advanced Very High Resolution Radiometer)와 TOVS(Television InfraRed Observation Satellite Operational Vertical Sounder) 등이 있다. 이 가운데 AVHRR은 5개의 채널을 가졌으며 각각의 파장과 주 용도는 Table 3과 같다.
 
+% Please add the following required packages to your document preamble:
+% \usepackage{multirow}
+\begin{table}[]
+	\caption{AVHRR 센서의 밴드별 파장 (http://www.geo.mtu.edu/rs/avhrr/).}
+	\begin{center}
+	\begin{tabular}{c|c|c|c|c}
+		\hline
+		\multicolumn{2}{|c|}{밴드} & 중심 파장 (nm) & 파장대역폭 (nm)      & 용도              \\ \hline
+		\multicolumn{2}{|c|}{1}  & 630        & 580 - 680       & 반사 에너지 기록       \\ \hline
+		\multicolumn{2}{|c|}{2}  & 865        & 725 - 1,000     & 반사 에너지 기록       \\ \hline
+		\multirow{}{}{3}  & a  & 1,610      & 1,580 - 1,640   & 반사 에너지 기록(주간)   \\ \cline{2-5} 
+		& b  & 3,740      & 3,550 – 3,930   & 방출되는 에너지 기록(야간) \\ \hline
+		\multicolumn{2}{|c|}{4}  & 10,800     & 10,300 – 11,300 & 열 에너지 기록        \\ \hline
+		\multicolumn{2}{|c|}{5}  & 12,000     & 11,500 - 12,500 & 열 에너지 기록        \\ \hline
+	\end{tabular}
+	\end{center}
+\end{table}
+
+
 \subsubsection{Terra/Aqua 위성}
 
 1999 년 12 월 18 일 발사되어 다음 년도 2 월 24 일부터 자료를 송신한 Terra (EOS AM-1) 위성은 하루에 한 지점을 2번 관측하는 극궤도위성이다. 지구 환경과 기후의 변화를 관측하는 것이 목표인 이 위성은 ASTER (Advanced Spaceborne Thermal Emission and Reflection Radiometer), CERES (Clouds and the Earth's Radiant Energy System), MISR (Multi-angle Imaging SpectroRadiometer), MODIS (Moderate-resolution Imaging Spectroradiometer), MOPITT (Measurements of Pollution in the Troposphere) 로 총 6 가지의 센서들을 탑재하였다. 

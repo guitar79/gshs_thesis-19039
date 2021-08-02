@@ -1,52 +1,52 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  2 AUG 2021 16:32
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.4.19)  2 AUG 2021 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **gshs_thesis_19039_main.tex
 (./gshs_thesis_19039_main.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03>
+L3 programming layer <2021-02-18>
 \@input{sub/preamble.aux}
 \openout2 = `sub/preamble.aux'.
 
 (./sub/preamble.tex (./gshs_thesis.cls
 Document Class: gshs_thesis 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+(c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+(c:/texlive/2021/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count173
-\c@section=\count174
-\c@subsection=\count175
-\c@subsubsection=\count176
-\c@paragraph=\count177
-\c@subparagraph=\count178
-\c@figure=\count179
-\c@table=\count180
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(c:/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+(c:/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count181
-\Gm@cntv=\count182
-\c@Gm@tempcnt=\count183
+\Gm@cnth=\count183
+\Gm@cntv=\count184
+\c@Gm@tempcnt=\count185
 \Gm@bindingoffset=\dimen139
 \Gm@wd@mp=\dimen140
 \Gm@odd@mp=\dimen141
@@ -57,10 +57,10 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks16
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks17
 \symAMSa=\mathgroup4
@@ -69,33 +69,33 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip49
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen147
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen148
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(c:/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count184
+\inf@bad=\count186
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count185
-\leftroot@=\count186
+\uproot@=\count187
+\leftroot@=\count188
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count187
-\DOTSCASE@=\count188
+\classnum@=\count189
+\DOTSCASE@=\count190
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -104,15 +104,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen149
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count189
-\c@MaxMatrixCols=\count190
+\macc@depth=\count191
+\c@MaxMatrixCols=\count192
 \dotsspace@=\muskip16
-\c@parentequation=\count191
-\dspbrk@lvl=\count192
+\c@parentequation=\count193
+\dspbrk@lvl=\count194
 \tag@help=\toks19
-\row@=\count193
-\column@=\count194
-\maxfields@=\count195
+\row@=\count195
+\column@=\count196
+\maxfields@=\count197
 \andhelp@=\toks20
 \eqnshift@=\dimen150
 \alignsep@=\dimen151
@@ -127,30 +127,30 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 105.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
-File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+(c:/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen156
 \Gin@req@width=\dimen157
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen158
 \captionmargin@=\dimen159
@@ -161,17 +161,17 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \caption@hangindent=\dimen164
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count196
-\c@continuedfloat=\count197
+\c@caption@flags=\count198
+\c@continuedfloat=\count199
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+(c:/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
-\c@subfigure=\count198
-\c@subtable=\count199
+\c@subfigure=\count266
+\c@subtable=\count267
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
-
+(c:/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip52
 \f@nch@O@elh=\skip53
 \f@nch@O@erh=\skip54
@@ -182,14 +182,14 @@ Package: fancyhdr 2021/01/04 v4.0 Extensive control of page headers and footers
 \f@nch@O@olf=\skip59
 \f@nch@O@orf=\skip60
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
 
 
 Package tocbibind Note: Using section or other style headings.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (c:/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box49
 \beforetitleunit=\skip61
@@ -201,12 +201,12 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidthlast=\dimen168
 \titlewidthfirst=\dimen169
 )
-(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+(c:/texlive/2021/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has section divisions on input line 51.
 \cftparskip=\skip63
@@ -235,21 +235,21 @@ Package tocloft Info: The document has section divisions on input line 51.
 \cftbeforefigskip=\skip86
 \cftfigindent=\skip87
 \cftfignumwidth=\skip88
-\c@lofdepth=\count266
-\c@lotdepth=\count267
+\c@lofdepth=\count268
+\c@lotdepth=\count269
 \cftbeforelottitleskip=\skip89
 \cftafterlottitleskip=\skip90
 \cftbeforetabskip=\skip91
 \cfttabindent=\skip92
 \cfttabnumwidth=\skip93
 )
-(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+(c:/texlive/2021/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count268
-\c@@ppsavesec=\count269
-\c@@ppsaveapp=\count270
+\c@@pps=\count270
+\c@@ppsavesec=\count271
+\c@@ppsaveapp=\count272
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -285,7 +285,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
 LaTeX Info: Redefining \hbar on input line 50.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tools/array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen170
 \ar@mcellbox=\box50
@@ -295,36 +295,36 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \backup@length=\skip95
 \ar@cellbox=\box51
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+(c:/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+(c:/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip96
 \enit@outerparindent=\dimen172
 \enit@toks=\toks25
 \enit@inbox=\box52
-\enit@count@id=\count271
-\enitdp@description=\count272
+\enit@count@id=\count273
+\enitdp@description=\count274
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(c:/texlive/2021/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
+\etb@tempcnta=\count275
 )
 \mylenfig=\skip97
 \mylentab=\skip98
 
-(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko.sty
-Package: xetexko 2020/02/17 v2.23 Typesetting Korean with XeTeX
-
-(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko-space.sty
-Package: xetexko-space 2020/02/17 v2.23 Spacings and fonts for XeTeX-ko
+(c:/texlive/2021/texmf-dist/tex/xetex/xetexko/xetexko.sty
+Package: xetexko 2021/03/22 v3.1 typesetting Korean with XeTeX
 \XeTeXcharclassID=\XeTeXcharclass1
-\XeTeXcharclassOP=\XeTeXcharclass2
-\XeTeXcharclassCL=\XeTeXcharclass3
+\XeTeXcharclassCJ=\XeTeXcharclass2
+\XeTeXcharclassOP=\XeTeXcharclass3
+\XeTeXcharclassCL=\XeTeXcharclass4
+\XeTeXcharclassEX=\XeTeXcharclass5
+\XeTeXcharclassCM=\XeTeXcharclass6
 
-(/usr/share/texlive/texmf-dist/tex/generic/unicode-data/load-unicode-xetex-clas
-ses.tex 
+(c:/texlive/2021/texmf-dist/tex/generic/unicode-data/load-unicode-xetex-classes
+.tex 
 load-unicode-xetex-classes.tex v1.14 (2020-10-24)
 Reading Unicode east Asian character class data
 # LineBreak-13.0.0.txt 
@@ -332,83 +332,74 @@ Reading Unicode east Asian character class data
 # EastAsianWidth-13.0.0.txt 
 # Date: 2029-01-21, 18:14:00 GMT [KW, LI] 
 )
-\XKsmallkana=\XeTeXcharclass4
-\XKcjkcolon=\XeTeXcharclass5
-\XKcjkfullstop=\XeTeXcharclass6
-\XKcjkliaison=\XeTeXcharclass7
-\XKcjkextrastop=\XeTeXcharclass8
-\XKcjksymbol=\XeTeXcharclass9
-\XKhangulsyllable=\XeTeXcharclass10
-\XKhanguljungjong=\XeTeXcharclass11
-\XKlatinopening=\XeTeXcharclass12
-\XKlatinclosing=\XeTeXcharclass13
-\XKopeningquote=\XeTeXcharclass14
-\XKclosingquote=\XeTeXcharclass15
-\XKlatinfullstop=\XeTeXcharclass16
-\XKlatinquestion=\XeTeXcharclass17
-\XKlatinexclamation=\XeTeXcharclass18
-\XKlatinhyphen=\XeTeXcharclass19
-\XKlatincomma=\XeTeXcharclass20
-\XKlatincolon=\XeTeXcharclass21
-\XKlatinnumber=\XeTeXcharclass22
-\XKhanjacombining=\XeTeXcharclass23
-\XK@toks@=\toks26
-\XKdotemphbox=\box53
-) (/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko-josa.sty
-Package: xetexko-josa 2020/02/17 v2.23 Auto-josa for XeTeX-ko
-\@josa=\count274
-)
-(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko-font.sty
-Package: xetexko-font 2020/02/17 v2.23 LaTeX Font commands for XeTeX-ko
+\XeTeXcharclassHG=\XeTeXcharclass7
+\XeTeXcharclassJJ=\XeTeXcharclass8
+\XeTeXcharclassMD=\XeTeXcharclass9
+\XeTeXcharclassFS=\XeTeXcharclass10
+\XeTeXcharclassLD=\XeTeXcharclass11
+\XeTeXcharclassSY=\XeTeXcharclass12
+\XeTeXcharclassAO=\XeTeXcharclass13
+\XeTeXcharclassAC=\XeTeXcharclass14
+\XeTeXcharclassAM=\XeTeXcharclass15
+\XeTeXcharclassAH=\XeTeXcharclass16
+\XeTeXcharclassAP=\XeTeXcharclass17
+\XeTeXcharclassVC=\XeTeXcharclass18
+\XeKo@toks@=\toks26
+\XeKo@toks@ii=\toks27
+\XeKo@skip@=\skip99
+\XeKo@count@=\count276
+\XeKo@dimen@=\dimen173
+\XeKo@box@=\box53
+\XeKo@dotemph@box=\box54
+ (c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-01-09 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2020-01-29 L3 backend support: XeTeX
+(c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count275
-\l__color_backend_stack_int=\count276
-\g__graphics_track_int=\count277
-\l__pdf_internal_box=\box54
-\g__pdf_backend_object_int=\count278
-\g__pdf_backend_annotation_int=\count279
-\g__pdf_backend_link_int=\count280
+\c__kernel_sys_dvipdfmx_version_int=\count277
+\l__color_backend_stack_int=\count278
+\g__color_backend_stack_int=\count279
+\g__graphics_track_int=\count280
+\l__pdf_internal_box=\box55
+\g__pdf_backend_object_int=\count281
+\g__pdf_backend_annotation_int=\count282
+\g__pdf_backend_link_int=\count283
 ))
-Package: xparse 2020-10-27 L3 Experimental document command parser
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty
+(c:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count281
-\l__fontspec_language_int=\count282
-\l__fontspec_strnum_int=\count283
-\l__fontspec_tmp_int=\count284
-\l__fontspec_tmpa_int=\count285
-\l__fontspec_tmpb_int=\count286
-\l__fontspec_tmpc_int=\count287
-\l__fontspec_em_int=\count288
-\l__fontspec_emdef_int=\count289
-\l__fontspec_strong_int=\count290
-\l__fontspec_strongdef_int=\count291
-\l__fontspec_tmpa_dim=\dimen173
-\l__fontspec_tmpb_dim=\dimen174
-\l__fontspec_tmpc_dim=\dimen175
+\l__fontspec_script_int=\count284
+\l__fontspec_language_int=\count285
+\l__fontspec_strnum_int=\count286
+\l__fontspec_tmp_int=\count287
+\l__fontspec_tmpa_int=\count288
+\l__fontspec_tmpb_int=\count289
+\l__fontspec_tmpc_int=\count290
+\l__fontspec_em_int=\count291
+\l__fontspec_emdef_int=\count292
+\l__fontspec_strong_int=\count293
+\l__fontspec_strongdef_int=\count294
+\l__fontspec_tmpa_dim=\dimen174
+\l__fontspec_tmpb_dim=\dimen175
+\l__fontspec_tmpc_dim=\dimen176
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg))))
-(/usr/share/texlive/texmf-dist/tex/xetex/xetexko/xetexko-vertical.sty
-Package: xetexko-vertical 2020/02/17 v2.23 Vertical environment for XeTeX-ko
-\verticalem=\dimen176
-)
-(/usr/share/texlive/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
+(c:/texlive/2021/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2021/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(c:/texlive/2021/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+(c:/texlive/2021/texmf-dist/tex/latex/cjk-ko/kolabels-utf.sty
 Package: kolabels-utf 2015/03/20 v1.5 UTF-8 Hangul item labels
 ))
 
@@ -424,101 +415,117 @@ Package fontspec Info: Font family 'NanumMyeongjo(0)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/OT:script=latn;language=dflt;mapping=t
-ex-text;"
+(fontspec)             <->"NanumMyeongjo/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/B/OT:script=latn;language=dflt;mapping
-=tex-text;"
+(fontspec)             <->"NanumMyeongjo/B/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/BI/OT:script=latn;language=dflt;mappin
-g=tex-text;"
+(fontspec)             <->"NanumMyeongjo/BI/OT:language=dflt;mapping=tex-text;"
+
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
 Package fontspec Info: Font family 'NanumMyeongjo(1)' created for font
 (fontspec)             'NanumMyeongjo' with options
-(fontspec)             [Ligatures={TeX},BoldFont={*},BoldFeatures={FakeBold},It
-alicFont={*},ItalicFeatures={FakeSlant}].
+(fontspec)             [Ligatures=TeX,BoldFont={*},BoldFeatures={FakeBold},Ital
+icFont={*},ItalicFeatures={FakeSlant}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/OT:script=latn;language=dflt;mapping=t
-ex-text;"
+(fontspec)             <->"NanumMyeongjo/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/OT:script=latn;language=dflt;embolden=
-1.5;mapping=tex-text;"
+(fontspec)             <->"NanumMyeongjo/OT:language=dflt;embolden=1.5;mapping=
+tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/OT:script=latn;language=dflt;slant=0.2
-;mapping=tex-text;"
+(fontspec)             <->"NanumMyeongjo/OT:language=dflt;slant=0.2;mapping=tex
+-text;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"NanumMyeongjo/B/OT:script=latn;language=dflt;mapping
-=tex-text;"
+(fontspec)             <->"NanumMyeongjo/B/OT:language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+(c:/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks27
-\verbatim@line=\toks28
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read2
 )
-(/usr/share/texlive/texmf-dist/tex/latex/spverbatim/spverbatim.sty
+(c:/texlive/2021/texmf-dist/tex/latex/spverbatim/spverbatim.sty
 Package: spverbatim 2009/08/10 v1.0 Verbatim with breakable spaces
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count292
-\lst@gtempboxa=\box55
-\lst@token=\toks29
-\lst@length=\count293
+(c:/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count295
+\lst@gtempboxa=\box56
+\lst@token=\toks30
+\lst@length=\count296
 \lst@currlwidth=\dimen177
-\lst@column=\count294
-\lst@pos=\count295
+\lst@column=\count297
+\lst@pos=\count298
 \lst@lostspace=\dimen178
 \lst@width=\dimen179
-\lst@newlines=\count296
-\lst@lineno=\count297
+\lst@newlines=\count299
+\lst@lineno=\count300
 \lst@maxwidth=\dimen180
 
-(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+(c:/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count298
-\lst@skipnumbers=\count299
-\lst@framebox=\box56
+\c@lstnumber=\count301
+\lst@skipnumbers=\count302
+\lst@framebox=\box57
 )
-(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+(c:/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(/usr/share/texlive/texmf-dist/tex/generic/hologo/hologo.sty
+(c:/texlive/2021/texmf-dist/tex/generic/hologo/hologo.sty
 Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(c:/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(c:/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-)))
+))
+(c:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen181
+\lightrulewidth=\dimen182
+\cmidrulewidth=\dimen183
+\belowrulesep=\dimen184
+\belowbottomsep=\dimen185
+\aboverulesep=\dimen186
+\abovetopsep=\dimen187
+\cmidrulesep=\dimen188
+\cmidrulekern=\dimen189
+\defaultaddspace=\dimen190
+\@cmidla=\count303
+\@cmidlb=\count304
+\@aboverulesep=\dimen191
+\@belowrulesep=\dimen192
+\@thisruleclass=\count305
+\@lastruleclass=\count306
+\@thisrulewidth=\dimen193
+))
 (./gshs_thesis_19039_main.aux (./sub/abstract.aux) (./sub/introduction.aux)
 (./sub/methodology.aux) (./sub/result.aux) (./sub/conclusion.aux)
 (./sub/summary.aux))
@@ -535,7 +542,7 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 0.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+ (c:/texlive/2021/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -583,10 +590,12 @@ LaTeX Font Info:    ... okay on input line 20.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 20.
 
 Package fontspec Info: Font family 'UnDotum.ttf(0)' created for font
 (fontspec)             'UnDotum.ttf' with options
-(fontspec)             [Ligatures={TeX},BoldFont={UnDotumBold.ttf}].
+(fontspec)             [Ligatures=TeX,BoldFont={UnDotumBold.ttf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
@@ -599,40 +608,69 @@ Package fontspec Info: Font family 'UnDotum.ttf(0)' created for font
 "
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
-\symmathhangul=\mathgroup8
-LaTeX Font Info:    Overwriting symbol font `mathhangul' in version `bold'
-(Font)                  TU/NanumMyeongjo(1)/m/up --> TU/NanumMyeongjo(1)/b/up o
-n input line 20.
-\c@lstlisting=\count300
+
+Package fontspec Info: Font family 'UnDotum.ttf(1)' created for font
+(fontspec)             'UnDotum.ttf' with options
+(fontspec)             [Ligatures=TeX,BoldFont={UnDotumBold.ttf},UprightFeature
+s={SizeFeatures={{Size={-8.5},
+(fontspec)             FakeStretch=1.062}, {Size={8.5-11}, FakeStretch=1.05 },
+(fontspec)             {Size={11-}, FakeStretch=1.03
+(fontspec)             }}},BoldFeatures={SizeFeatures={{Size={-},
+(fontspec)             FakeStretch=1.05 }}},WordSpace={1.66667,0,0}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <-8.5>"[UnDotum.ttf]/OT:language=dflt;extend=1.062;mappi
+ng=tex-text;"<8.5-11>"[UnDotum.ttf]/OT:language=dflt;extend=1.05;mapping=tex-te
+xt;"<11->"[UnDotum.ttf]/OT:language=dflt;extend=1.03;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1.66667\fontdimen 2\font \fontdimen
+(fontspec)             3\font =0\fontdimen 3\font \fontdimen 4\font
+(fontspec)             =0\fontdimen 4\font 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[UnDotumBold.ttf]/OT:language=dflt;extend=1.05;mappi
+ng=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1.66667\fontdimen 2\font \fontdimen
+(fontspec)             3\font =0\fontdimen 3\font \fontdimen 4\font
+(fontspec)             =0\fontdimen 4\font 
+
+\c@lstlisting=\count307
 \openout2 = `sub/abstract.aux'.
 
-(./sub/abstract.tex
+ (./sub/abstract.tex
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
  1.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
  1.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
  1.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
  1.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(c:/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
@@ -641,12 +679,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-Missing character: There is no 朴 in font NanumMyeongjo/OT:script=latn;language=
-dflt;embolden=1.5;mapping=tex-text;!
-Missing character: There is no 敍 in font NanumMyeongjo/OT:script=latn;language=
-dflt;embolden=1.5;mapping=tex-text;!
-Missing character: There is no 進 in font NanumMyeongjo/OT:script=latn;language=
-dflt;embolden=1.5;mapping=tex-text;!
+Missing character: There is no 朴 (U+6734) in font NanumMyeongjo/OT:language=dfl
+t;embolden=1.5;mapping=tex-text;!
+Missing character: There is no 敍 (U+654D) in font NanumMyeongjo/OT:language=dfl
+t;embolden=1.5;mapping=tex-text;!
+Missing character: There is no 進 (U+9032) in font NanumMyeongjo/OT:language=dfl
+t;embolden=1.5;mapping=tex-text;!
  [1
 
 
@@ -692,11 +730,26 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 
 
 ] [2]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 20.
+
+! Undefined control sequence.
+<recently read> \multirow 
+                          
+l.28 ^^I^^I\multirow
+                    {}{}{3}  & a  & 1,610      & 1,580 - 1,640   & 반사 에너지 기록...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [3]
-Missing character: There is no µ in font NanumMyeongjo/OT:script=latn;language=
-dflt;mapping=tex-text;!
-Missing character: There is no µ in font NanumMyeongjo/OT:script=latn;language=
-dflt;mapping=tex-text;!
+Missing character: There is no µ (U+00B5) in font NanumMyeongjo/OT:language=dfl
+t;mapping=tex-text;!
+Missing character: There is no µ (U+00B5) in font NanumMyeongjo/OT:language=dfl
+t;mapping=tex-text;!
 ) [4]
 \openout2 = `sub/methodology.aux'.
 
@@ -704,7 +757,56 @@ dflt;mapping=tex-text;!
 
 
 
-] [6] [7] [8] [9]
+] [6] [7] [8]
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+Missing character: There is no ^^V (U+0016) in font NanumMyeongjo/OT:language=d
+flt;mapping=tex-text;!
+ [9]
 File: images//Figure01.png Graphic file (type bmp)
 <images//Figure01.png>
 File: images//Figure01.pdf Graphic file (type pdf)
@@ -757,12 +859,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13307 strings out of 477220
- 236848 string characters out of 5832722
- 667507 words of memory out of 5000000
- 32749 multiletter control sequences out of 15000+600000
- 422498 words of font info for 120 fonts, out of 8000000 for 9000
+ 13340 strings out of 476919
+ 236534 string characters out of 5825424
+ 670789 words of memory out of 5000000
+ 33062 multiletter control sequences out of 15000+600000
+ 422546 words of font info for 126 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 132i,19n,136p,1725b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 117i,19n,122p,1708b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on gshs_thesis_19039_main.pdf (29 pages).
