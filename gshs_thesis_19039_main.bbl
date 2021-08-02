@@ -1,9 +1,27 @@
 \begin{thebibliography}{1}
 
-\bibitem[1]{Yoon06}
-Yoon, P.~H., \& Lui, A.~T. (2006).
-\newblock Quasi-linear theory of anomalous resistivity.
-\newblock {\em Journal of Geophysical Research: Space Physics}, {\em
-  111\/}(A2).
+\bibitem[1]{wu2007regimes}
+Wu, R., \& Kirtman, B.~P. (2007).
+\newblock Regimes of seasonal air--sea interaction and implications for
+  performance of forced simulations.
+\newblock {\em Climate dynamics}, {\em 29\/}(4), 393--410.
+
+\bibitem[2]{정은실2019한반도에서}
+정은실 (2019).
+\newblock 한반도에서 위험기상 발생 시 나타나는 해수면온도
+  변동의 특성.
+\newblock {\em 한국지구과학회지}, {\em 40\/}(3), 240--258.
+
+\bibitem[3]{Level}
+Product definitions.
+\newblock \url{https://oceancolor.gsfc.nasa.gov/products/}.
+\newblock Accessed: 2021-06-30.
+
+\bibitem[4]{walton1988nonlinear}
+Walton, C.~C. (1988).
+\newblock Nonlinear multichannel algorithms for estimating sea surface
+  temperature with avhrr satellite data.
+\newblock {\em Journal of Applied Meteorology and Climatology}, {\em 27\/}(2),
+  115--124.
 
 \end{thebibliography}

@@ -1,25 +1,22 @@
-\contentsline {section}{Abstract}{i}{}%
-\contentsline {section}{초록}{ii}{}%
-\contentsline {section}{Contents}{iii}{}%
-\contentsline {section}{List of Tables}{v}{}%
-\contentsline {section}{List of Figures}{vi}{}%
-\contentsline {section}{\numberline {I}서론}{1}{}%
-\contentsline {subsection}{\numberline {I.1}연구의 필요성 및 목적}{1}{}%
-\contentsline {subsection}{\numberline {I.2}이론적 배경}{2}{}%
-\contentsline {subsubsection}{\numberline {I.2.1}기상 위성}{2}{}%
-\contentsline {subsubsection}{\numberline {I.2.2}NOAA (National Oceanic and Atmospheric Administration) 위성}{3}{}%
-\contentsline {subsubsection}{\numberline {I.2.3}Terra/Aqua 위성}{3}{}%
-\contentsline {subsection}{\numberline {I.3}SST 산출 알고리즘}{4}{}%
-\contentsline {section}{\numberline {II}연구 방법 및 과정}{5}{}%
-\contentsline {subsection}{\numberline {II.1}데이터 파악 및 수집}{5}{}%
-\contentsline {section}{\numberline {III}Equations, Figures, and Tables}{5}{}%
-\contentsline {subsection}{\numberline {III.1}Equations}{6}{}%
-\contentsline {subsection}{\numberline {III.2}Figures}{9}{}%
-\contentsline {subsection}{\numberline {III.3}Tables}{13}{}%
-\contentsline {section}{\numberline {IV}Test Section}{16}{}%
-\contentsline {subsection}{\numberline {IV.1}Test Subsection}{16}{}%
-\contentsline {subsubsection}{\numberline {IV.1.1}Test Subsubsection}{16}{}%
-\contentsline {paragraph}{Test Paragraph}{16}{}%
-\contentsline {section}{\numberline {V}결론}{17}{}%
-\contentsline {section}{References}{18}{}%
-\contentsline {section}{Summary}{19}{}%
+\contentsline {section}{Abstract}{i}{Doc-Start}%
+\contentsline {section}{초록}{ii}{Doc-Start}%
+\contentsline {section}{Contents}{iii}{Doc-Start}%
+\contentsline {section}{List of Tables}{iv}{section*.1}%
+\contentsline {section}{List of Figures}{v}{section*.2}%
+\contentsline {section}{\numberline {I}서론}{1}{section.1}%
+\contentsline {subsection}{\numberline {I.1}연구의 필요성 및 목적}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {I.2}이론적 배경}{2}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {I.2.1}기상 위성}{2}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {I.2.2}NOAA 위성}{2}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {I.2.3}Terra/Aqua 위성}{3}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {I.2.4}인공위성 자료}{4}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {I.2.5}SST 산출 알고리즘}{4}{subsubsection.1.2.5}%
+\contentsline {section}{\numberline {II}연구 방법 및 과정}{6}{section.2}%
+\contentsline {subsection}{\numberline {II.1}데이터 파악 및 수집}{6}{subsection.2.1}%
+\contentsline {section}{\numberline {III}Test Section}{7}{section.3}%
+\contentsline {subsection}{\numberline {III.1}Test Subsection}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {III.1.1}Test Subsubsection}{7}{subsubsection.3.1.1}%
+\contentsline {section}{\numberline {IV}결론}{8}{section.4}%
+\contentsline {section}{\numberline {V}부록}{9}{section.5}%
+\contentsline {subsection}{\numberline {V.1}Python 코드1}{9}{subsection.5.1}%
+\contentsline {section}{References}{22}{lstnumber.-2.2}%

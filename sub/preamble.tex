@@ -13,6 +13,20 @@
 }
 \usepackage{hologo}
 \usepackage{booktabs}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{multirow}
+
+\usepackage{hyperref}
+\hypersetup{%
+	pdfborder = {0 0 0},
+	colorlinks,
+	citecolor=black,
+	filecolor=black,
+	linkcolor=black,
+	urlcolor=black
+}
+
 
 % -----------------------------------------------------------------------
 %                   이 부분은 수정하지 마시오.
@@ -31,11 +45,11 @@
 %: ----------------------------------------------------------------------
 %:                  논문 제목과 저자 이름을 입력하시오
 % ----------------------------------------------------------------------
-\title{AVHRR 자료를 이용한 한반도 주변 해역의 해수면 온도 산출} %한글 제목
-\engtitle{Estimation of Sea Surface Temperature around the Korean Peninsula Using AVHRR Data} %영문 제목
+\title{NOAA/AVHRR 자료를 이용한 한반도 주변 해역의 해수면 온도 산출} %한글 제목
+\engtitle{Estimation of Sea Surface Temperature around the Korean Peninsula Using NOAA/AVHRR Data} %영문 제목
 \korname{박 서 진} %저자 이름을 한글로 입력하시오 (글자 사이 띄어쓰기)
 \engname{Park, Seo Jin} %저자 이름을 영어로 입력하시오 (family name, personal name)
-\chnname{朴 敍 進} %저자 이름을 한자로 입력하시오 (글자 사이 띄어쓰기)
+\chnname{} %저자 이름을 한자로 입력하시오 (글자 사이 띄어쓰기)
 \studid{19039} %학번을 입력하시오
 
 %------------------------------------------------------------------------
@@ -54,25 +68,25 @@
 \checklisttitle{[논문제출 전 체크리스트]} %수정하지 마시오
 \checklistI{1. 이 논문은 내가 직접 연구하고 작성한 것이다.} %수정하지 마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkI{$\square$}
-%\checklistmarkI{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkI{$\square$}
+\checklistmarkI{$\text{\rlap{$\checkmark$}}\square$}
 \checklistII{2. 인용한 모든 자료(책, 논문, 인터넷자료 등)의 인용표시를 바르게 하였다.} %수정하지 마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkII{$\square$}
-%\checklistmarkII{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkII{$\square$}
+\checklistmarkII{$\text{\rlap{$\checkmark$}}\square$}
 \checklistIII{3. 인용한 자료의 표현이나 내용을 왜곡하지 않았다.} %수정하지마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkIII{$\square$}
-%\checklistmarkIII{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkIII{$\square$}
+\checklistmarkIII{$\text{\rlap{$\checkmark$}}\square$}
 \checklistIV{4. 정확한 출처제시 없이 다른 사람의 글이나 아이디어를 가져오지 않았다.} %수정하지 마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkIV{$\square$}
-%\checklistmarkIV{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkIV{$\square$}
+\checklistmarkIV{$\text{\rlap{$\checkmark$}}\square$}
 \checklistV{5. 논문 작성 중 도표나 데이터를 조작(위조 혹은 변조)하지 않았다.} %수정하지 마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkV{$\square$}
-%\checklistmarkV{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkV{$\square$}
+\checklistmarkV{$\text{\rlap{$\checkmark$}}\square$}
 \checklistVI{6. 다른 친구와 같은 내용의 논문을 제출하지 않았다.} %수정하지 마시오
 % 이 항목이 사실이라면 다음 줄 앞에 "%"기호 삽입, 다다음 줄 앞의 "%"기호 제거하시오
-\checklistmarkVI{$\square$}
-%\checklistmarkVI{$\text{\rlap{$\checkmark$}}\square$}
+%\checklistmarkVI{$\square$}
+\checklistmarkVI{$\text{\rlap{$\checkmark$}}\square$}
