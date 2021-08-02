@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2020/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: gshs_thesis_19000_main.aux
+The top-level auxiliary file: gshs_thesis_19039_main.aux
 The style file: gshs_thesis.bst
 A level-1 auxiliary file: sub/abstract.aux
 A level-1 auxiliary file: sub/introduction.aux
@@ -11,44 +11,44 @@ A level-1 auxiliary file: sub/appendix.aux
 A level-1 auxiliary file: sub/summary.aux
 A level-1 auxiliary file: sub/footer.aux
 Database file #1: bibfile.bib
-You've used 18 entries,
+You've used 1 entry,
             2761 wiz_defined-function locations,
-            747 strings with 7962 characters,
-and the built_in function-call counts, 6649 in all, are:
-= -- 504
-> -- 361
-< -- 29
-+ -- 152
-- -- 116
-* -- 734
-:= -- 1196
-add.period$ -- 54
-call.type$ -- 18
-change.case$ -- 54
+            624 strings with 5042 characters,
+and the built_in function-call counts, 283 in all, are:
+= -- 18
+> -- 14
+< -- 1
++ -- 6
+- -- 4
+* -- 30
+:= -- 58
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 229
-empty$ -- 468
-format.name$ -- 144
-if$ -- 1200
+cite$ -- 1
+duplicate$ -- 12
+empty$ -- 19
+format.name$ -- 7
+if$ -- 47
 int.to.chr$ -- 0
-int.to.str$ -- 36
-missing$ -- 18
-newline$ -- 93
-num.names$ -- 54
-pop$ -- 48
+int.to.str$ -- 2
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 3
+pop$ -- 2
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 4
 quote$ -- 0
-skip$ -- 111
+skip$ -- 7
 stack$ -- 0
-substring$ -- 476
-swap$ -- 89
+substring$ -- 4
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 54
+type$ -- 3
 warning$ -- 0
-while$ -- 64
-width$ -- 20
-write$ -- 236
+while$ -- 2
+width$ -- 2
+write$ -- 15
