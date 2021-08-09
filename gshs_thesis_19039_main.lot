@@ -1,2 +1,4 @@
-\contentsline {table}{\numberline {1}{\ignorespaces Subfigure에서 사용할 수 있는 여러 종류의 referencing.\relax }}{13}{}%
-\contentsline {table}{\numberline {2}{\ignorespaces Physical parameters.\relax }}{14}{}%
+\contentsline {table}{\numberline {1}{\ignorespaces Description for AVHRR channels Channel.\relax }}{3}{table.caption.3}%
+\contentsline {table}{\numberline {2}{\ignorespaces Description for MODIS channels.\relax }}{5}{table.caption.4}%
+\contentsline {table}{\numberline {3}{\ignorespaces 해양위성센터에서 다운로드 가능한 SST 데이터.\relax }}{7}{table.caption.5}%
+\contentsline {table}{\numberline {4}{\ignorespaces 사용한 NOAA/AVHRR SST data.\relax }}{10}{table.caption.8}%

@@ -1,3 +1,7 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces A linearly damped beat wave.\relax }}{11}{}%
-\contentsline {figure}{\numberline {2}{\ignorespaces \subref {subfig:fig1} shows A and\nobreakspace {}\subref {subfig:fig2} shows B.\relax }}{13}{}%
-\contentsline {figure}{\numberline {3}{\ignorespaces TeXstudio 에서 이 파일로 문서편집 하는 모습\relax }}{15}{}%
+\contentsline {figure}{\numberline {1}{\ignorespaces NOAA/AVHRR SST 자료 텍스트 파일 캡처 화면.\relax }}{8}{figure.caption.6}%
+\contentsline {figure}{\numberline {2}{\ignorespaces KOSC에서 배포한 NOAA/AVHRR SST 자료.\relax }}{9}{figure.caption.7}%
+\contentsline {figure}{\numberline {3}{\ignorespaces SST의 히스토그램(NOAA/AVHRR).\relax }}{12}{figure.caption.9}%
+\contentsline {figure}{\numberline {4}{\ignorespaces (a) KOSC에서 배포한 NOAA/AVHRR SST. (b) 직접 그린 NOAA/AVHRR SST.\relax }}{13}{figure.caption.10}%
+\contentsline {figure}{\numberline {5}{\ignorespaces SST 일평균값 산출 결과(NOAA/AVHRR).\relax }}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {6}{\ignorespaces SST 주평균값 산출 결과(NOAA/AVHRR).\relax }}{15}{figure.caption.12}%
+\contentsline {figure}{\numberline {7}{\ignorespaces SST 월평균값 산출 결과(NOAA/AVHRR).\relax }}{16}{figure.caption.13}%
