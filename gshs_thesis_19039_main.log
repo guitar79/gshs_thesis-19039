@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 12:46
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1249,7 +1249,12 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
- [3] [4] [1] [2] (./gshs_thesis_19039_main.toc [3
+ [3] [4]
+Missing character: There is no ​ in font NanumMyeongjo/OT:script=latn;language=
+dflt;mapping=tex-text;!
+Missing character: There is no ​ in font NanumMyeongjo/OT:script=latn;language=
+dflt;mapping=tex-text;!
+ [1] [2] (./gshs_thesis_19039_main.toc [3
 
 ])
 \tf@toc=\write5
@@ -1285,19 +1290,14 @@ Overfull \hbox (27.2214pt too wide) in paragraph at lines 4--4
 
 
 
-] [2] [3] [4] [5]
-Overfull \hbox (31.22054pt too wide) in paragraph at lines 132--135
-[]\TU/NanumMyeongjo(1)/m/up/10.95 MCSST(3, 4)=T11+1.616(T3.7-T11)+1.07 (dual wi
-ndow) MCSST(4, 5)=T12+3.15(T11-
- []
-
-) [6]
+] [2] [3] [4] [5]) [6]
 \openout2 = `sub/methodology.aux'.
 
  (./sub/methodology.tex
 File: images//asc_file1.png Graphic file (type bmp)
 <images//asc_file1.png>
- [7
+
+[7
 
 
 
@@ -1321,8 +1321,7 @@ File: images//2019.0104.1034.noaa-18.sst.jpg Graphic file (type bmp)
 File: images//2019.0104.1034.noaa-18.sst_AVHRR_SST_map.png Graphic file (type b
 mp)
 <images//2019.0104.1034.noaa-18.sst_AVHRR_SST_map.png>
-
-[13]
+ [13]
 File: images//AVHRR_SST_20111004_20111005_115_145_20_55_0.5_alldata_mean_map.pn
 g Graphic file (type bmp)
 <images//AVHRR_SST_20111004_20111005_115_145_20_55_0.5_alldata_mean_map.png>
@@ -1344,7 +1343,8 @@ PGFPlots: reading {./data/mon_over00_year.csv}
 ) [17]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex) [18
+
+(./sub/conclusion.tex) [18
 
 
 
@@ -1392,13 +1392,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `gshs_thesis_19039_main.out' has not changed.
 
-(rerunfilecheck)             Checksum: 556D78FDD34AF2EC9D1EBE032199E377;3478.
+(rerunfilecheck)             Checksum: 1A1677E7E61F10069C19BDE0AF745410;3438.
  ) 
 Here is how much of TeX's memory you used:
- 41881 strings out of 477220
- 935951 string characters out of 5832722
- 2156117 words of memory out of 5000000
- 60833 multiletter control sequences out of 15000+600000
+ 41884 strings out of 477220
+ 935994 string characters out of 5832722
+ 2156210 words of memory out of 5000000
+ 60836 multiletter control sequences out of 15000+600000
  425976 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  132i,18n,136p,2149b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s

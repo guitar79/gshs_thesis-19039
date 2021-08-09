@@ -17,11 +17,30 @@ Product definitions.
 \newblock \url{https://oceancolor.gsfc.nasa.gov/products/}.
 \newblock Accessed: 2021-06-30.
 
-\bibitem[4]{walton1988nonlinear}
+\bibitem[4]{박경애2004snu}
+박경애, 정종률, 김구, 김경렬, 최병호, 이동규, \& 윤용훈
+  (2004).
+\newblock Snu/rio 의 인공위성자료 검증연구: 해수표면온도와
+  해상풍을 중심으로.
+\newblock {\em 한국기상학회 학술대회 논문집}, (pp.\ 150--151).
+
+\bibitem[5]{mcmillin1984theory}
+McMillin, L., \& Crosby, D. (1984).
+\newblock Theory and validation of the multiple window sea surface temperature
+  technique.
+\newblock {\em Journal of Geophysical Research: Oceans}, {\em 89\/}(C3),
+  3655--3661.
+
+\bibitem[6]{walton1988nonlinear}
 Walton, C.~C. (1988).
 \newblock Nonlinear multichannel algorithms for estimating sea surface
   temperature with avhrr satellite data.
 \newblock {\em Journal of Applied Meteorology and Climatology}, {\em 27\/}(2),
   115--124.
+
+\bibitem[7]{김진은2017영동}
+김진은, \& 차동현 (2017).
+\newblock 영동 지역 폭설에 동해 해수면 온도가 미치는 영향.
+\newblock {\em 한국기상학회 학술대회 논문집}, (pp.\ 465--466).
 
 \end{thebibliography}

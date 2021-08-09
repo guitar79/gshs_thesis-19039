@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {II.1}데이터 파악}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {II.2}연구에 사용한 데이터}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {II.3}자료 처리}{11}{subsection.2.3}%
-\contentsline {subsection}{\numberline {II.4}데이터 파악 및 수집}{11}{subsection.2.4}%
+\contentsline {subsection}{\numberline {II.4}해역의 구분}{11}{subsection.2.4}%
 \contentsline {section}{\numberline {III}연구 결과}{12}{section.3}%
 \contentsline {subsection}{\numberline {III.1}자료 처리}{12}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {III.1.1}SST를 히스토그램}{12}{subsubsection.3.1.1}%

@@ -54,7 +54,7 @@ National Oceanic and Atmospheric Administration (NOAA)에서 진행하는 Polar 
 
 Aqua 위성은 2002년 5월 4일 지표면과 대기 중의 물에 관한 연구를 위하여 발사되었으며, Atmospheric Infrared Sounder (AIRS), the Advanced Microwave Sounding Unit (AMSU-A), the Humidity Sounder for Brazil (HSB), the Advanced Microwave Scanning Radiometer for EOS (AMSR-E), the Moderate-Resolution Imaging Spectroradiometer (MODIS), and the Clouds and the Earth's Radiant Energy System (CERES)로 총 6가지 센서들을 탑재하였으나, 그중 AMSR-E와 HSB가 손상되어 작동을 멈추었고, AMSU-A와 CERES는 일부 고장이 발생하였으나 여전히 작동하고 있다. Terra와 Aqua 위성은 Aura 위성과 함께 Earth Observing System(EOS)의 일부이다. 
 
-MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} \times 1.6 \textrm{ m} \times 1.0 \textrm{ m}$, 질량 $228.7 \textrm{ kg}$의 MODIS는 위성에 탑재되어 $705 \textrm{ km}$의 고도에서 $55 \circ$의 시야각, $2330 \textrm{ km}$의 관측폭으로 하루 한 번 혹은 두 번 같은 지점을 관측한다. 총 36 개인 각 채널의 해상도는 각각 $250 \textrm{ m}$(채널 1 - 2), $500 \textrm{ m}$(채널 3 - 7), $1 \textrm{ km}$(채널 8 - 36)이며 그 중 SST 관측에 쓰이는 것은 약 $3.7 - 4.1 \textrm{ }\rm{\mu m}$의 대역폭을 가지고 있는 20, 21, 22, 23 번 채널과 $10.8 - 12.3 \textrm{ }\rm{\mu m}$의 31, 32 번 채널이다. 자세한 정보는 Table \ref{table:MODIS}에 나타내었다.
+MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} \times 1.6 \textrm{ m} \times 1.0 \textrm{ m}$, 질량 $228.7 \textrm{ kg}$의 MODIS는 위성에 탑재되어 $705 \textrm{ km}$의 고도에서 $55 {^\circ}$의 시야각, $2,330 \textrm{ km}$의 관측폭으로 하루 한 번 혹은 두 번 같은 지점을 관측한다. 총 $36$ 개인 각 채널의 해상도는 각각 $250 \textrm{ m}$(채널 $1 \sim 2$), $500 \textrm{ m}$(채널 $3 \sim 7$), $1 \textrm{ km}$(채널 $8 \sim 36$)이며 그 중 SST 관측에 쓰이는 것은 약 $3.7 \sim 4.1 \textrm{ }\rm{\mu m}$의 대역폭을 가지고 있는 $20$, $21$, $22$, $23$ 번 채널과 $10.8 - 12.3 \textrm{ }\rm{\mu m}$의 $31$, $32$ 번 채널이다. 자세한 정보는 Table \ref{table:MODIS}에 나타내었다.
 
 
 % Please add the following required packages to your document preamble:
@@ -66,8 +66,9 @@ MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} 
 		Primary Use                                                                                              & Band & Bandwidth1  & \begin{tabular}[c]{@{}l@{}}Spectral\\ Radiance\end{tabular} & Required SNR \\ 
 		\toprule
 		
-		\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Land/Cloud/Aerosols\\ Boundaries\end{tabular}}                & 1    & 620 - 670   & 21.8                                                         & 128           \\ \cline{2-5} 
-		& 2    & 841 - 876   & 24.7                                                         & 201           \\ \hline
+		\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Land/Cloud/Aerosols\\ Boundaries\end{tabular}}                
+		& 1    & $620 \sim 670$   & $21.8$                                                         & $128$           \\ \cline{2-5} 
+		& 2    & $841 \sim 876$   & 24.7                                                         & 201           \\ \hline
 		\multirow{5}{*}{\begin{tabular}[c]{@{}l@{}}Land/Cloud/Aerosols\\ Properties\end{tabular}}                & 3    & 459 - 479   & 35.3                                                         & 243           \\ \cline{2-5} 
 		& 4    & 545 - 565   & 29.0                                                         & 228           \\ \cline{2-5} 
 		& 5    & 1230 - 1250 & 5.4                                                          & 74            \\ \cline{2-5} 
@@ -125,12 +126,17 @@ MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} 
 
 \subsubsection{SST 산출 알고리즘}
 
-인공위성 자료를 통해 SST 데이터를 산출하는 데에는 MCSST(Multi-Channel Sea Surface Temperature)와 CPSST(Cross Product Sea Surface Temperature) 등 여러 기법이 존재한다. (박경혜, 정종률, 최병호, 김구, 1994) SST 산출에 쓰이는 채널은 22, 23번(단파)와 31, 32번(장파)이며, 각각의 채널에서는 지표면을 흑체로 가정하고 슈테판-볼츠만 법칙을 이용하여 밝기온도를 구한다. McMillin과 Crosby(1984)의 연구 결과에 의하면 수증기흡수계수 ki, kj에 대하여 =kjkj-ki일 때, SST=Tj+(Ti-Tj)의 값을 가진다. 
+인공위성 자료를 통해 SST 데이터를 산출하는 데에는 MCSST(Multi-Channel Sea Surface Temperature)와 CPSST(Cross Product Sea Surface Temperature) 등 여러 기법이 존재한다 \cite{박경애2004snu}. SST 산출에 쓰이는 채널은 $22$, $23$번(단파)와 $31$, $32$번(장파)이며, 각각의 채널에서는 지표면을 흑체로 가정하고 슈테판-볼츠만 법칙을 이용하여 밝기 온도를 구한다. McMillin과 Crosby(1984)의 연구 결과에 의하면 수증기 흡수 계수 $ki$, $kj$에 대하여 $\mathrm{Y}=\frac{\mathrm{kj}}{k j-\mathrm{ki}}$일 때, $SST=T j+\gamma(T i-T j)$의 값을 가진다 \cite{mcmillin1984theory}. 
 
-그렇게 도출한 단일채널 SST의 값을 이용하여 아래와 같은 총 세 가지 기법으로 MCSST를 산출한다 \cite{walton1988nonlinear}. 
+그렇게 도출한 단일 채널 SST의 값을 이용하여 아래와 같은 총 세 가지 기법으로 MCSST를 산출한다 \cite{walton1988nonlinear}. 
 
-MCSST(3, 4)=T11+1.616(T3.7-T11)+1.07 (dual window)
-MCSST(4, 5)=T12+3.15(T11-T12)+0.10 (split window)
-MCSST(3, 4, 5)=T11+0.943(T3.7-T12)+0.61 (triple window)
 
-MCSST를 구하는 식에서는 수증기의 적외선 흡수율이 상수라고 가정하나, 실제로는 온도와 관계 있는 비선형적 함수로서 나타나고, 이에 따라 건조한 극지방이나 고온의 지역에서 산출한 결과와는 오차가 발생하게 된다. 따라서 이를 보완하기 위하여 개발된 비선형 알고리즘이 CPSST이다. (Walton et al, 1998)
+\begin{equation}
+	\begin{array}{l}
+		\operatorname{MCSST}(3,4)=T_{11}+1.616\left(T_{3.7}-T_{11}\right)+1.07 \text { (dual window) } \\
+		\operatorname{MCSST}(4,5)=T_{12}+3.15\left(T_{11}-T_{12}\right)+0.10 \text { (split window) } \\
+		\operatorname{MCSST}(3,4,5)=T_{11}+0.943\left(T_{3.7}-T_{12}\right)+0.61 \text { (triple window) }
+	\end{array}
+\end{equation}
+
+MCSST를 구하는 식에서는 수증기의 적외선 흡수율이 상수라고 가정하나, 실제로는 온도와 관계 있는 비선형적 함수로서 나타나고, 이에 따라 건조한 극지방이나 고온의 지역에서 산출한 결과와는 오차가 발생하게 된다. 따라서 이를 보완하기 위하여 개발된 비선형 알고리즘이 CPSST로 $S S T_{i}=A T_{\mathrm{i}}+B T_{i}$일 때, $\operatorname{CPSST}(i, j)=\frac{T_{i} S S T_{i}-T_{i} S S T_{i}}{T_{i}-T_{i}+S S T_{j}-S S T_{i}}$ 로 구한다.
