@@ -15,6 +15,7 @@
 \contentsline {subsection}{\numberline {II.1}데이터 파악}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {II.2}연구에 사용한 데이터}{9}{subsection.2.2}%
 \contentsline {subsection}{\numberline {II.3}자료 처리}{11}{subsection.2.3}%
+\contentsline {subsection}{\numberline {II.4}데이터 파악 및 수집}{11}{subsection.2.4}%
 \contentsline {section}{\numberline {III}연구 결과}{12}{section.3}%
 \contentsline {subsection}{\numberline {III.1}자료 처리}{12}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {III.1.1}SST를 히스토그램}{12}{subsubsection.3.1.1}%
@@ -23,10 +24,11 @@
 \contentsline {subsubsection}{\numberline {III.2.1}일평균값 산출}{14}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {III.2.2}주평균값 산출}{15}{subsubsection.3.2.2}%
 \contentsline {subsubsection}{\numberline {III.2.3}월평균값 산출}{16}{subsubsection.3.2.3}%
-\contentsline {section}{\numberline {IV}결론}{17}{section.4}%
-\contentsline {section}{\numberline {V}부록}{18}{section.5}%
-\contentsline {subsection}{\numberline {V.1}MODIS\_hdf\_utilities.py}{18}{subsection.5.1}%
-\contentsline {subsection}{\numberline {V.2}1.daily\_classify\_using\_AVHRR\_asc\_SST.py}{37}{subsection.5.2}%
-\contentsline {subsection}{\numberline {V.3}2.statistics\_AVHRR\_asc\_SST\_alldata\_and\_creating\_NCfile.py}{43}{subsection.5.3}%
-\contentsline {subsection}{\numberline {V.4}4.draw\_HIST\_and\_MAP\_statistics\_AVHRR\_asc\_SST\_NCfile.py}{48}{subsection.5.4}%
-\contentsline {section}{References}{52}{lstnumber.-4.100}%
+\contentsline {subsubsection}{\numberline {III.2.4}해수면 온도 변동}{17}{subsubsection.3.2.4}%
+\contentsline {section}{\numberline {IV}결론}{18}{section.4}%
+\contentsline {section}{\numberline {V}부록}{19}{section.5}%
+\contentsline {subsection}{\numberline {V.1}MODIS\_hdf\_utilities.py}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {V.2}1.daily\_classify\_using\_AVHRR\_asc\_SST.py}{39}{subsection.5.2}%
+\contentsline {subsection}{\numberline {V.3}2.statistics\_AVHRR\_asc\_SST\_alldata\_and\_creating\_NCfile.py}{45}{subsection.5.3}%
+\contentsline {subsection}{\numberline {V.4}4.draw\_HIST\_and\_MAP\_statistics\_AVHRR\_asc\_SST\_NCfile.py}{50}{subsection.5.4}%
+\contentsline {section}{References}{53}{lstnumber.-4.98}%

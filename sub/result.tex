@@ -61,16 +61,40 @@ Python으로 코딩하여 SST 자료를 지도 위에 표출하였다. KOSC에�
 
 월평균값의 레벨3 자료를 산출하여 Figure \ref{fig:monthly_mean1}\과 같이 지도 위에 표출해 보았다. 
 
-\begin{figure}[htbp]
+\begin{figure}[htbp!]
 	\centerline{\includegraphics[width=\textwidth]{AVHRR_SST_20111001_20111101_115_145_20_55_0.5_alldata_mean_map.png}}
 	\caption{SST 월평균값 산출 결과(NOAA/AVHRR).}
 	\label{fig:monthly_mean1}
 \end{figure}
 
+\newpage
+\subsubsection{해수면 온도 변동}
 
-<<<<<<< HEAD
 
 
-=======
-앞서 언급하였듯이 subsubsection, paragraph 와 같은 하위 절은 사용을 자제하는 것이 좋다.
->>>>>>> c2fb6d045ef38751fc9fe31d0bd3b77d1b59076f
+\pgfdeclarelayer{foreground}
+\pgfsetlayers{foreground,main}
+\begin{figure}[htbp!]
+	
+	\begin{tikzpicture}
+		\begin{axis} [
+			width=1.00\textwidth,%
+			height = 8cm,%
+			xtick = data,%
+			symbolic x coords={Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec},%
+			ylabel= {SST ($\rm {{^\circ}C}$)},%
+			ymin=0,ystep=0.5,ymax=2.0,%
+			scaled y ticks = false,%
+			ymajorgrids = true,
+			legend style={at={(0.02,10)}},legend pos=north east]%
+			\addplot table [x=Month, y=meanLAC_2003] {./data/mon_over00_year.csv}; \addlegendentry {2003 LAC}%
+			\addplot table [x=Month, y=meanLAC_2004] {./data/mon_over00_year.csv}; \addlegendentry {2004 LAC}%
+			\addplot table [x=Month, y=meanLAC_2005] {./data/mon_over00_year.csv}; \addlegendentry {2005 LAC}%
+			\addplot table [x=Month, y=meanLAC_2006] {./data/mon_over00_year.csv}; \addlegendentry {2006 LAC}%
+		\end{axis}
+	\end{tikzpicture}
+	
+	%	\end{pgfonlayer}
+	\scriptsize\caption{Variation of monthly mean values of SST from 2010 to 2020.}
+	\label{fig:monthly_mean_variation}
+\end{figure}

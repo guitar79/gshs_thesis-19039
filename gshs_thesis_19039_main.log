@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 11:19
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 12:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1286,7 +1286,7 @@ Overfull \hbox (27.2214pt too wide) in paragraph at lines 4--4
 
 
 ] [2] [3] [4] [5]
-Overfull \hbox (31.22054pt too wide) in paragraph at lines 134--137
+Overfull \hbox (31.22054pt too wide) in paragraph at lines 132--135
 []\TU/NanumMyeongjo(1)/m/up/10.95 MCSST(3, 4)=T11+1.616(T3.7-T11)+1.07 (dual wi
 ndow) MCSST(4, 5)=T12+3.15(T11-
  []
@@ -1334,10 +1334,17 @@ g Graphic file (type bmp)
 File: images//AVHRR_SST_20111001_20111101_115_145_20_55_0.5_alldata_mean_map.pn
 g Graphic file (type bmp)
 <images//AVHRR_SST_20111001_20111101_115_145_20_55_0.5_alldata_mean_map.png>
-) [16]
+ [16]
+\pgf@layerbox@foreground=\box70
+\pgf@layerboxsaved@foreground=\box71
+PGFPlots: reading {./data/mon_over00_year.csv}
+PGFPlots: reading {./data/mon_over00_year.csv}
+PGFPlots: reading {./data/mon_over00_year.csv}
+PGFPlots: reading {./data/mon_over00_year.csv}
+) [17]
 \openout2 = `sub/conclusion.aux'.
 
- (./sub/conclusion.tex) [17
+ (./sub/conclusion.tex) [18
 
 
 
@@ -1348,33 +1355,33 @@ g Graphic file (type bmp)
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(./MODIS_hdf_Python/MODIS_hdf_utilities.py [18
+(./MODIS_hdf_Python/MODIS_hdf_utilities.py [19
 
 
 
-] [19] [20] [21] [22] [23]
-[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36])
-(./MODIS_hdf_Python/1.daily_classify_using_AVHRR_asc_SST.py [37] [38] [39]
-[40] [41] [42])
-Overfull \hbox (58.23192pt too wide) in paragraph at lines 24--24
+] [20] [21] [22] [23] [24]
+[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38])
+(./MODIS_hdf_Python/1.daily_classify_using_AVHRR_asc_SST.py [39] [40] [41]
+[42] [43] [44])
+Overfull \hbox (58.23192pt too wide) in paragraph at lines 28--28
 |[]\TU/NanumMyeongjo(0)/b/n/16 2.statistics_AVHRR_asc_SST_alldata_and_creating_
 NCfile.py| 
  []
 
 (./MODIS_hdf_Python/2.statistics_AVHRR_asc_SST_alldata_and_creating_NCfile.py
-[43] [44] [45] [46] [47])
-Overfull \hbox (74.10692pt too wide) in paragraph at lines 27--27
+[45] [46] [47] [48] [49])
+Overfull \hbox (74.10692pt too wide) in paragraph at lines 31--31
 |[]\TU/NanumMyeongjo(0)/b/n/16 4.draw_HIST_and_MAP_statistics_AVHRR_asc_SST_NCf
 ile.py| 
  []
 
 (./MODIS_hdf_Python/4.draw_HIST_and_MAP_statistics_AVHRR_asc_SST_NCfile.py
-[48] [49] [50])) [51] (./gshs_thesis_19039_main.bbl
+[50] [51])) [52] (./gshs_thesis_19039_main.bbl
 
 LaTeX Font Warning: Font shape `TU/NanumMyeongjo(0)/m/it' undefined
 (Font)              using `TU/NanumMyeongjo(0)/m/n' instead on input line 7.
 
-) [52
+) [53
 
 
 ] (./gshs_thesis_19039_main.aux (./sub/abstract.aux)
@@ -1385,15 +1392,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `gshs_thesis_19039_main.out' has not changed.
 
-(rerunfilecheck)             Checksum: E009F049D2705BC56D0ECC9CEBF020EF;3193.
+(rerunfilecheck)             Checksum: 556D78FDD34AF2EC9D1EBE032199E377;3478.
  ) 
 Here is how much of TeX's memory you used:
- 40982 strings out of 477220
- 905253 string characters out of 5832722
- 2202920 words of memory out of 5000000
- 59938 multiletter control sequences out of 15000+600000
+ 41881 strings out of 477220
+ 935951 string characters out of 5832722
+ 2156117 words of memory out of 5000000
+ 60833 multiletter control sequences out of 15000+600000
  425976 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 132i,18n,136p,792b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 132i,18n,136p,2149b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gshs_thesis_19039_main.pdf (62 pages).
+Output written on gshs_thesis_19039_main.pdf (63 pages).
