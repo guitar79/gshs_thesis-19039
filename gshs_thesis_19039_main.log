@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 15:32
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2021.6.13)  9 AUG 2021 19:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1075,7 +1075,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip101
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 32.
+Package hyperref Info: Option `colorlinks' set `true' on input line 41.
 )
 (./gshs_thesis_19039_main.aux (./sub/abstract.aux) (./sub/introduction.aux)
 (./sub/methodology.aux) (./sub/result.aux) (./sub/conclusion.aux)
@@ -1355,33 +1355,46 @@ PGFPlots: reading {./data/mon_over00_year.csv}
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(./MODIS_hdf_Python/MODIS_hdf_utilities.py [19
+(./MODIS_hdf_Python/MODIS_hdf_utilities.py
+LaTeX Font Info:    Trying to load font information for TU+NanumGothic_Coding o
+n input line 1.
+LaTeX Font Info:    No file TUNanumGothic_Coding.fd. on input line 1.
+
+
+LaTeX Font Warning: Font shape `TU/NanumGothic_Coding/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line 1.
+
+[19
 
 
 
-] [20] [21] [22] [23] [24]
-[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38])
-(./MODIS_hdf_Python/1.daily_classify_using_AVHRR_asc_SST.py [39] [40] [41]
-[42] [43] [44])
-Overfull \hbox (58.23192pt too wide) in paragraph at lines 28--28
+] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
+[34] [35] [36] [37] [38] [39] [40])
+(./MODIS_hdf_Python/1.daily_classify_using_AVHRR_asc_SST.py [41] [42] [43]
+[44] [45] [46] [47])
+Overfull \hbox (58.23192pt too wide) in paragraph at lines 17--17
 |[]\TU/NanumMyeongjo(0)/b/n/16 2.statistics_AVHRR_asc_SST_alldata_and_creating_
 NCfile.py| 
  []
 
 (./MODIS_hdf_Python/2.statistics_AVHRR_asc_SST_alldata_and_creating_NCfile.py
-[45] [46] [47] [48] [49])
-Overfull \hbox (74.10692pt too wide) in paragraph at lines 31--31
+Overfull \hbox (143.8372pt too wide) in paragraph at lines 4--5
+[][][][][][] 
+ []
+
+[48] [49] [50] [51] [52])
+Overfull \hbox (74.10692pt too wide) in paragraph at lines 20--20
 |[]\TU/NanumMyeongjo(0)/b/n/16 4.draw_HIST_and_MAP_statistics_AVHRR_asc_SST_NCf
 ile.py| 
  []
 
 (./MODIS_hdf_Python/4.draw_HIST_and_MAP_statistics_AVHRR_asc_SST_NCfile.py
-[50] [51])) [52] (./gshs_thesis_19039_main.bbl
+[53] [54] [55])) [56] (./gshs_thesis_19039_main.bbl
 
 LaTeX Font Warning: Font shape `TU/NanumMyeongjo(0)/m/it' undefined
 (Font)              using `TU/NanumMyeongjo(0)/m/n' instead on input line 7.
 
-) [53
+) [57
 
 
 ] (./gshs_thesis_19039_main.aux (./sub/abstract.aux)
@@ -1395,12 +1408,12 @@ Package rerunfilecheck Info: File `gshs_thesis_19039_main.out' has not changed.
 (rerunfilecheck)             Checksum: 1A1677E7E61F10069C19BDE0AF745410;3438.
  ) 
 Here is how much of TeX's memory you used:
- 41884 strings out of 477220
- 935994 string characters out of 5832722
- 2156210 words of memory out of 5000000
- 60836 multiletter control sequences out of 15000+600000
+ 41892 strings out of 477220
+ 936232 string characters out of 5832722
+ 2179214 words of memory out of 5000000
+ 60841 multiletter control sequences out of 15000+600000
  425976 words of font info for 129 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  132i,18n,136p,2149b,2586s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on gshs_thesis_19039_main.pdf (63 pages).
+Output written on gshs_thesis_19039_main.pdf (67 pages).

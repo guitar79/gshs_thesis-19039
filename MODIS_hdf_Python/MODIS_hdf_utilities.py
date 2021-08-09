@@ -36,7 +36,7 @@ cht_start_time = datetime.now()
 #JulianDate_to_date(2018, 131) -- '20180511'
 def JulianDate_to_date(y, jd):
     import calendar
-    ############################################################
+    #################################
     #JulianDate_to_date(2018, 131) -- '20180511'
     #
     month = 1
@@ -47,7 +47,7 @@ def JulianDate_to_date(y, jd):
     return datetime(y, month, jd)
 
 def date_to_JulianDate(dt, fmt):
-    ############################################################
+    #################################
     #date_to_JulianDate('20180201', '%Y%m%d') -- 2018032
     #
     dt = datetime.strptime(dt, fmt)
@@ -56,7 +56,7 @@ def date_to_JulianDate(dt, fmt):
 
 
 def fullname_to_datetime_for_DAAC3K(fullname):
-    ############################################################
+    #################################
     #for modis hdf file, filename = 'DAAC_MOD04_3K/MOD04_3K.A2014003.0105.006.2015072123557.hdf'
     #
     import calendar
@@ -74,7 +74,7 @@ def fullname_to_datetime_for_DAAC3K(fullname):
      
 
 def fullname_to_datetime_for_KOSC_MODIS_SST(fullname):
-    ############################################################
+    #################################
     #for modis hdf file, filename = '../folder/MYDOCT.2018.0724.0515.aqua-1.hdf'
     #
     from datetime import datetime
@@ -85,7 +85,7 @@ def fullname_to_datetime_for_KOSC_MODIS_SST(fullname):
     return filename_dt
 
 def fullname_to_datetime_for_KOSC_AVHRR_SST_asc(fullname):
-    ############################################################
+    #################################
     #for modis hdf file, filename = '../folder/MYDOCT.2018.0724.0515.aqua-1.hdf'
     #
     from datetime import datetime
@@ -96,7 +96,7 @@ def fullname_to_datetime_for_KOSC_AVHRR_SST_asc(fullname):
     return filename_dt
 
 def fullname_to_datetime_for_L3_npyfile(fullname):
-    ############################################################
+    #################################
     #for modis hdf file, filename = '../folder/AVHRR_SST_20110901_20110902_115_145_20_55_0.5_alldata.npy'
     #
     from datetime import datetime
@@ -107,7 +107,7 @@ def fullname_to_datetime_for_L3_npyfile(fullname):
     return filename_dt
 
 def fullname_to_datetime_for_KOSC_MODIS_hdf(fullname):
-    ############################################################
+    #################################
     #for modis hdf file, filename = '../folder/MYDOCT.2018.0724.0515.aqua-1.hdf'
     #
     from datetime import datetime
@@ -431,7 +431,7 @@ def draw_histogram_AVHRR_SST_asc1(df_AVHRR_sst, save_dir_name, fullname, DATAFIE
     return None      
 
 def npy_filename_to_fileinfo(fullname):
-    ############################################################
+    #################################
     # for modis hdf file, filename = 'DAAC_MOD04_3K/daily/sst_20110901_20110902_110_150_10_60_0.05_alldata.npy'    
     #
     fileinfo = fullname.split('_')
@@ -445,7 +445,7 @@ def npy_filename_to_fileinfo(fullname):
     return start_date, end_date, Llon, Rlon, Slat, Nlat, resolution
 
 def getFullnameListOfallFiles(dirName):
-    ##############################################3
+    #################################
     import os
     # create a list of file and sub directories 
     # names in the given directory 
@@ -478,7 +478,7 @@ def calculate_mean_using_result_array(result_array):
     return mean_array, cnt_array
 
 def make_grid_array(Llon, Rlon, Slat, Nlat, resolution) :
-    ############################################################
+    #################################
     # Llon, Rlon = 90, 150
     # Slat, Nlat = 10, 60
     # resolution = 0.025
@@ -499,7 +499,7 @@ def make_grid_array(Llon, Rlon, Slat, Nlat, resolution) :
 
 
 def make_grid_array1(Llon, Rlon, Slat, Nlat, resolution) :
-    ############################################################
+    #################################
     # Llon, Rlon = 90, 150
     # Slat, Nlat = 10, 60
     # resolution = 0.025
@@ -531,7 +531,7 @@ def make_grid_array1(Llon, Rlon, Slat, Nlat, resolution) :
 
 
 def read_MODIS_hdf_to_ndarray(fullname, DATAFIELD_NAME):
-    ##########################################################
+    #################################
     #
     #
     import numpy as np
