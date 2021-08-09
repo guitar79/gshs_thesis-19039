@@ -34,8 +34,6 @@ National Oceanic and Atmospheric Administration (NOAA)에서 진행하는 Polar 
 
 		\begin{tabular}{c|c|c}
 			\hline
-			
-			\hline
 			Channel Number & \begin{tabular}[c]{@{}c@{}}Wavelength\\ {($\rm{\mu m}$)}\end{tabular} & Typical Use                                                                           \\ \hline
 			1              & 0.58 $\sim$0.68                                          & Daytime cloud and surface mapping                                                     \\ \hline
 			2              & 0.725 $\sim$1.00                                         & Land-water boundaries                                                                 \\ \hline
@@ -56,62 +54,7 @@ National Oceanic and Atmospheric Administration (NOAA)에서 진행하는 Polar 
 
 Aqua 위성은 2002년 5월 4일 지표면과 대기 중의 물에 관한 연구를 위하여 발사되었으며, Atmospheric Infrared Sounder (AIRS), the Advanced Microwave Sounding Unit (AMSU-A), the Humidity Sounder for Brazil (HSB), the Advanced Microwave Scanning Radiometer for EOS (AMSR-E), the Moderate-Resolution Imaging Spectroradiometer (MODIS), and the Clouds and the Earth's Radiant Energy System (CERES)로 총 6가지 센서들을 탑재하였으나, 그중 AMSR-E와 HSB가 손상되어 작동을 멈추었고, AMSU-A와 CERES는 일부 고장이 발생하였으나 여전히 작동하고 있다. Terra와 Aqua 위성은 Aura 위성과 함께 Earth Observing System(EOS)의 일부이다. 
 
-MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} \times 1.6 \textrm{ m} \times 1.0 \textrm{ m}$, 질량 $228.7 \textrm{ kg}$의 MODIS는 위성에 탑재되어 $705 \textrm{ km}$의 고도에서 $55 \circ$의 시야각, $2330 \textrm{ km}$의 관측폭으로 하루 한 번 혹은 두 번 같은 지점을 관측한다. 총 36 개인 각 채널의 해상도는 각각 $250 \textrm{ m}$(채널 1 - 2), $500 \textrm{ m}$(채널 3 - 7), $1 \textrm{ km}$(채널 8 - 36)이며 그 중 SST 관측에 쓰이는 것은 약 $3.7 - 4.1 \textrm{ }\rm{\mu m}$의 대역폭을 가지고 있는 20, 21, 22, 23 번 채널과 $10.8 - 12.3 \textrm{ }\rm{\mu m}$의 31, 32 번 채널이다. 자세한 정보는 Table \ref{table:MODIS}에 나타내었다.
-
-
-% Please add the following required packages to your document preamble:
-% \usepackage{multirow}
-\begin{table}[!htbp]
-	\caption{Description for MODIS channels.}
-	\begin{tabular}{l|c|c|c|c}
-		\toprule
-		Primary Use                                                                                              & Band & Bandwidth1  & \begin{tabular}[c]{@{}l@{}}Spectral\\ Radiance\end{tabular} & Required SNR \\ 
-		\toprule
-		
-		\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Land/Cloud/Aerosols\\ Boundaries\end{tabular}}                & 1    & 620 - 670   & 21.8                                                         & 128           \\ \cline{2-5} 
-		& 2    & 841 - 876   & 24.7                                                         & 201           \\ \hline
-		\multirow{5}{*}{\begin{tabular}[c]{@{}l@{}}Land/Cloud/Aerosols\\ Properties\end{tabular}}                & 3    & 459 - 479   & 35.3                                                         & 243           \\ \cline{2-5} 
-		& 4    & 545 - 565   & 29.0                                                         & 228           \\ \cline{2-5} 
-		& 5    & 1230 - 1250 & 5.4                                                          & 74            \\ \cline{2-5} 
-		& 6    & 1628 - 1652 & 7.3                                                          & 275           \\ \cline{2-5} 
-		& 7    & 2105 - 2155 & 1.0                                                          & 110           \\ \hline
-		\multirow{9}{*}{\begin{tabular}[c]{@{}l@{}}Ocean Color/\\ Phytoplankton/\\ Biogeochemistry\end{tabular}} & 8    & 405 - 420   & 44.9                                                         & 880           \\ \cline{2-5} 
-		& 9    & 438 - 448   & 41.9                                                         & 838           \\ \cline{2-5} 
-		& 10   & 483 - 493   & 32.1                                                         & 802           \\ \cline{2-5} 
-		& 11   & 526 - 536   & 27.9                                                         & 754           \\ \cline{2-5} 
-		& 12   & 546 - 556   & 21.0                                                         & 750           \\ \cline{2-5} 
-		& 13   & 662 - 672   & 9.5                                                          & 910           \\ \cline{2-5} 
-		& 14   & 673 - 683   & 8.7                                                          & 1087          \\ \cline{2-5} 
-		& 15   & 743 - 753   & 10.2                                                         & 586           \\ \cline{2-5} 
-		& 16   & 862 - 877   & 6.2                                                          & 516           \\ \hline
-		\multirow{3}{*}{\begin{tabular}[c]{@{}l@{}}Atmospheric\\ Water Vapor\end{tabular}}                       & 17   & 890 - 920   & 10.0                                                         & 167           \\ \cline{2-5} 
-		& 18   & 931 - 941   & 3.6                                                          & 57            \\ \cline{2-5} 
-		& 19   & 915 - 965   & 15.0                                                         & 250           \\ 
-		
-		\toprule
-
-		\multirow{4}{*}{\begin{tabular}[c]{@{}l@{}}Surface/Cloud\\ Temperature\end{tabular}} & 20   & 3.660 - 3.840   & 0.45(300K)                                                   & 0.05                                                              \\ \cline{2-5} 
-		& 21   & 3.929 - 3.989   & 2.38(335K)                                                   & 0.20                                                              \\ \cline{2-5} 
-		& 22   & 3.929 - 3.989   & 0.67(300K)                                                   & 0.07                                                              \\ \cline{2-5} 
-		& 23   & 4.020 - 4.080   & 0.79(300K)                                                   & 0.07                                                              \\ \hline
-		\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Atmospheric\\ Temperature\end{tabular}}   & 24   & 4.433 - 4.498   & 0.17(250K)                                                   & 0.25                                                              \\ \cline{2-5} 
-		& 25   & 4.482 - 4.549   & 0.59(275K)                                                   & 0.25                                                              \\ \hline
-		\multirow{3}{*}{\begin{tabular}[c]{@{}l@{}}Cirrus Clouds\\ Water Vapor\end{tabular}} & 26   & 1.360 - 1.390   & 6.00                                                         & 150(SNR)                                                          \\ \cline{2-5} 
-		& 27   & 6.535 - 6.895   & 1.16(240K)                                                   & 0.25                                                              \\ \cline{2-5} 
-		& 28   & 7.175 - 7.475   & 2.18(250K)                                                   & 0.25                                                              \\ \hline
-		Cloud Properties                                                                     & 29   & 8.400 - 8.700   & 9.58(300K)                                                   & 0.05                                                              \\ \hline
-		Ozone                                                                                & 30   & 9.580 - 9.880   & 3.69(250K)                                                   & 0.25                                                              \\ \hline
-		\multirow{2}{*}{\begin{tabular}[c]{@{}l@{}}Surface/Cloud\\ Temperature\end{tabular}} & 31   & 10.780 - 11.280 & 9.55(300K)                                                   & 0.05                                                              \\ \cline{2-5} 
-		& 32   & 11.770 - 12.270 & 8.94(300K)                                                   & 0.05                                                              \\ \hline
-		\multirow{4}{*}{\begin{tabular}[c]{@{}l@{}}Cloud Top\\ Altitude\end{tabular}}        & 33   & 13.185 - 13.485 & 4.52(260K)                                                   & 0.25                                                              \\ \cline{2-5} 
-		& 34   & 13.485 - 13.785 & 3.76(250K)                                                   & 0.25                                                              \\ \cline{2-5} 
-		& 35   & 13.785 - 14.085 & 3.11(240K)                                                   & 0.25                                                              \\ \cline{2-5} 
-		& 36   & 14.085 - 14.385 & 2.08(220K)                                                   & 0.35                                                              \\ 		\bottomrule
-		
-	\end{tabular}
-	\label{table:MODIS}
-\end{table}
-
+MODIS는 Terra와 Aqua 위성의 핵심 탑재체이다. 크기 $1.0\textrm{ m} \times 1.6 \textrm{ m} \times 1.0 \textrm{ m}$, 질량 $228.7 \textrm{ kg}$의 MODIS는 위성에 탑재되어 $705 \textrm{ km}$의 고도에서 $55 \circ$의 시야각, $2330 \textrm{ km}$의 관측폭으로 하루 한 번 혹은 두 번 같은 지점을 관측한다. 총 36 개인 각 채널의 해상도는 각각 $250 \textrm{ m}$(채널 1 - 2), $500 \textrm{ m}$(채널 3 - 7), $1 \textrm{ km}$(채널 8 - 36)이며 그 중 SST 관측에 쓰이는 것은 약 $3.7 - 4.1 \textrm{ }\rm{\mu m}$의 대역폭을 가지고 있는 20, 21, 22, 23 번 채널과 $10.8 - 12.3 \textrm{ }\rm{\mu m}$의 31, 32 번 채널이다.
 
 \subsubsection{인공위성 자료}
 
